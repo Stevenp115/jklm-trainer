@@ -1,6 +1,10 @@
 # jklm-trainer
 A training bot for the JKLM word game.
 
+## Dependencies
+* Selenium for dynamic web scraping
+* Chrome webdriver
+
 ## Features
 * Customise the name and priority setting of the bot.
 * 4 different word priority settings are given: Alphabetical order, word length (longest), word length (shortest), and optimal alphabet use.
